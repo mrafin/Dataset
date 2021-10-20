@@ -8,5 +8,8 @@ Dataset adalah sebuah kumpulan data yang bersifat sebagai himpunan data yang ber
 - Masing-masing kelompok diberikan 2 label untuk dicollect datanya (misal daun jeruk nipis dan daun sirih)
 
 
-## Apa yang Akan Kami Lakkukan??
+## Fungsi Dataset
+Dataset yang telah dikumpukan akan kami gunakan sebagai data training dan data set dalam sebuah penerapan supervised learning. Tujuan akhir kami disini adalah membuat sebuah aplikasi dimana aplikasi tersebut dapat menebak gambar yang kita masukan (gambar daun seledri atau daun jeruk nippis) apakah data tersebut masuk masuk ke kategori daun seledri atau daun jeruk nipis
+
+
 
